@@ -1,4 +1,7 @@
 {
-  username: 'user'
-  password: 'password1234'
+  "User": {
+    "title": {
+      "string": {}
+    }
+  }
 }
